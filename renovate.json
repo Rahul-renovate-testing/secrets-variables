@@ -1,0 +1,8 @@
+{
+  "secrets": {
+    "SECRET_TOKEN": "secret_token"
+  },
+  "variables": {
+    "VARIABLE_TOKEN": "variable_token"
+  }
+}
